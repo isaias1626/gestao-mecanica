@@ -1,10 +1,9 @@
-import HeaderPage from '@/components/header/header';
+
 import React from 'react';
 
 const Manutencoes = () => {
     return (
         <div>
-            <HeaderPage />
             <div className="container mx-auto p-4">
                 <h1 className="text-3xl font-bold text-center mb-6">Histórico de Manutenções</h1>
                 
